@@ -1,3 +1,7 @@
+Heterogeneous Parallelization
+
+Zhanerke Duisen, ADA-2403M
+
 Практическая работа 1
 
 practice1part3.drawio.png - БЛОК-СХЕМА.
